@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TimDinerDb", "TimDinerDb\TimDinerDb.sqlproj", "{5A6DFBFB-FF77-4265-B9A6-723D340A6A84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{49CC5104-FC65-43DD-B789-BC9F023D4FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A6DFBFB-FF77-4265-B9A6-723D340A6A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6DFBFB-FF77-4265-B9A6-723D340A6A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6DFBFB-FF77-4265-B9A6-723D340A6A84}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5A6DFBFB-FF77-4265-B9A6-723D340A6A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6DFBFB-FF77-4265-B9A6-723D340A6A84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6DFBFB-FF77-4265-B9A6-723D340A6A84}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{49CC5104-FC65-43DD-B789-BC9F023D4FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CC5104-FC65-43DD-B789-BC9F023D4FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CC5104-FC65-43DD-B789-BC9F023D4FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CC5104-FC65-43DD-B789-BC9F023D4FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E4E1DE6-9060-4DAE-A204-3340D0268A4D}
+	EndGlobalSection
+EndGlobal

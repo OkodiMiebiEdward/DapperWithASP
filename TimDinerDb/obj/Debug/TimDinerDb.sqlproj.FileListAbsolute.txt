@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Desktop\ASPNetCoreCommon\TimDinerDb\bin\Debug\TimDinerDb.dacpac
+C:\Users\User\OneDrive\Desktop\ASPNetCoreCommon\TimDinerDb\bin\Debug\TimDinerDb.dll
+C:\Users\User\OneDrive\Desktop\ASPNetCoreCommon\TimDinerDb\bin\Debug\TimDinerDb.pdb
+C:\Users\User\OneDrive\Desktop\ASPNetCoreCommon\TimDinerDb\obj\Debug\TimDinerDb.sqlproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\ASPNetCoreCommon\TimDinerDb\obj\Debug\TimDinerDb.dll
+C:\Users\User\OneDrive\Desktop\ASPNetCoreCommon\TimDinerDb\obj\Debug\TimDinerDb.pdb
